@@ -25,4 +25,8 @@ Repository with experiments and results
 
 `utils.py` - Вспомогательные утилиты для Base64 to Image, для Base64 to Buffer, для генерации QR-кодов и т.п. 
 
+Пример QR-кода с маской от Kandinsky:
+
+![Screenshot](my-colormask-qrcode-999.png)
+
 `Копия_блокнота__Control_nt1_ipynb_.ipynb` - jupyter notebook, в котором мы проводили эксперименты и добились корректных QR-кодов. (Дообучение в рамках хакатона не доделали)
